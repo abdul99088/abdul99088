@@ -17,7 +17,7 @@ I turn complexity into clean, maintainable code.
 | **[traffic‑flow‑optimization](https://github.com/abdul99088/traffic-flow-optimization)** | C++ simulator that reduces congestion using Dijkstra & A* algorithms. |
 | **[mmu‑simulator](https://github.com/abdul99088/mmu-simulator)** | Python MMU that models paging and address translation. |
 | **[tuitionpro](https://github.com/abdul99088/tuitionpro)** | JavaScript app for simplified tuition record management. |
-| **[study‑pulse](https://github.com/abdul99088/study-pulse)** | Next.js dashboard to track study habits and progress. |
+
 
 ## 📫 Let's connect
 
