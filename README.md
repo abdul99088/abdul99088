@@ -1,35 +1,47 @@
 # 👋 Hello, I'm Abdul
 
-**Full-stack Developer & Systems Builder** I build software to solve human and computational friction. Whether it's automating manual data-entry burnout or engineering optimized system architectures, I focus on turning complex bottlenecks into clean, maintainable, and high-performance code.
+**AI Engineer & Full-Stack Builder** | Computer Engineering @ NUST
+
+I build AI-powered software that removes manual, repetitive work: agentic LLM workflows, hybrid RAG systems, computer vision, and ML-powered apps, shipped end to end. Recently contributed to **LawGPT**, a production AI legal-assistant platform, as a Software Engineering Intern at DigiFloat.
 
 ---
 
 ## 🚀 Projects I'm Proud Of
 
-| Project | Core Engineering & Real-World Problem Solved | Tech Stack |
+| Project | What it does & what I built | Tech Stack |
 | :--- | :--- | :--- |
-| **[🤖 Advanced RAG Bot](https://github.com/abdul99088/Advanced-RAG-Bot)** | **Context Isolation & Precision Search.** Built a hybrid dense/sparse vector & keyword engine handling programmatic document indexing, query reranking, and ultra-low latency Groq text completions. | FastAPI, ChromaDB, BM25, Groq |
-| **[🥑 Cal AI Clone](https://github.com/abdul99088/calorie-tracker)** | **Eliminating data-entry fatigue.** Built an AI image ingestion pipeline to instantly parse macros, paired with a dynamic biometric calculator (Mifflin-St Jeor) and user-isolated data sandboxing. | React, Supabase, Chart.js |
-| **[🧠 Humanizer 3.0](https://github.com/abdul99088/humanizer3.0)** | **Natural Language Processing.** Fine-tuned open-source LLMs using LoRA parameters and engineered end-to-end inference pipelines on public endpoints. | Python, LoRA, Hugging Face |
-| **[📚 TuitionPro](https://github.com/abdul99088/tuitionpro)** | **Administrative workflow automation.** Created a centralized record management interface integrating the Twilio WhatsApp API to completely automate payment reminders. | JavaScript, Twilio API, Vercel |
+| **[💸 ExpenseFlow](https://github.com/abdul99088/ExpenseFlow-Android)** | **ML-powered Android expense tracker.** Scans receipts with Google ML Kit and auto-categorizes expenses with a TF-IDF + Logistic Regression model (**91.9% validation accuracy**). Includes spending charts, budgets and alerts. | Kotlin, Jetpack Compose, ML Kit, Scikit-learn |
+| **[🎯 AI Training Platform](https://github.com/abdul99088/AI-Training-Platform)** | **Train and run YOLO models from a web UI.** Upload a dataset, train an object-detection model, and run inference on images or live webcam with confidence thresholds. Used it to train a custom weapon-detection model with a real-time alarm. | FastAPI, Ultralytics YOLO, PyTorch, OpenCV |
+| **[🤖 Advanced RAG Bot](https://github.com/abdul99088/Advanced-RAG-Bot)** | **Hybrid retrieval for precise document Q&A.** ChromaDB semantic search + BM25 keyword reranking, automated pypdf ingestion and chunking, low-latency Llama 3.1 inference via Groq, decoupled backend and frontend. | FastAPI, Streamlit, ChromaDB, BM25, Groq |
+| **[🛡️ AutoCode Audit](https://github.com/abdul99088/autocode-audit)** | **Real-time quality-gate dashboard.** Verifies every commit maps to an active Jira story via GitHub and Jira webhooks, tracks test coverage against an 80% merge threshold, and surfaces static-analysis findings with risk scoring. | Node.js, Express, React, Jira API |
+| **[🧠 Humanizer 3.0](https://huggingface.co/spaces/khaliqabdull/humanizer3.0)** | **Fine-tuned NLP app with public users.** LoRA fine-tuned language model with an end-to-end inference pipeline on Hugging Face Spaces. | Python, LoRA, Hugging Face |
+| **[📚 TuitionPro](https://github.com/abdul99088/tuitionpro)** | **Fee-tracking automation.** Tuition management system that automatically detects pending dues and sends personalized WhatsApp payment reminders to parents. | React, Supabase, n8n, Twilio API |
+| **[🥑 Cal AI Clone](https://github.com/abdul99088/calorie-tracker)** | **Calorie tracking without manual entry.** AI image pipeline that parses macros, plus a biometric calculator (Mifflin-St Jeor) and per-user data isolation. | React, Supabase, Chart.js |
+
+---
+
+## 💼 Experience
+
+**Software Engineering Intern, DigiFloat** (May–Sep 2026): contributed to [LawGPT](https://platform.lawgpt.pk), a production AI legal-assistant platform. Built document-analysis features, extended the ingestion pipeline, and shipped LLM features with LangChain, LangGraph, Langfuse and Azure OpenAI.
 
 ---
 
 ## 🔧 Technical Toolbelt
 
-* **Languages:** Python, C++, JavaScript, TypeScript
-* **AI/ML & Data Science:** NLP, LoRA Fine-Tuning, Vector Spaces, Hybrid Search, Model Deployment
-* **Web Technologies & Backend:** FastAPI, Node.js, Express, Supabase, REST APIs, HTML5, CSS3, Git
-* **Core CS Foundations:** Data Structures, Applied Algorithms, Object-Oriented Programming (OOP), System Design
+* **Languages:** Python, Kotlin, JavaScript, C++
+* **AI / ML:** LangGraph, LangChain, Langfuse, RAG, Agentic Workflows, LoRA Fine-Tuning, Hugging Face, Scikit-learn, PyTorch, YOLO, OpenCV, Prompt Engineering
+* **Backend & Web:** FastAPI, Node.js, Express, React, Supabase, REST APIs, Webhooks, n8n
+* **Mobile:** Android (Jetpack Compose)
+* **Tools & Foundations:** Git, GitHub, Jira, Data Structures, Algorithms, OOP, System Design
 
 ---
 
 ## 📫 Let's Connect
 
-🟢 **Always open to collaborating on Full-Stack, AI integration, or Systems-level challenges.**
+Open to AI engineering internships and collaborations on agentic AI, RAG and ML-powered products.
 
-🌐 [LinkedIn](https://www.linkedin.com/in/abdul-vassay-khaliq-68651b380/) · 📧 [Email Me](mailto:avassayk@gmail.com)
+🌐 [LinkedIn](https://www.linkedin.com/in/abdul-vassay-khaliq-68651b380/) · 📧 [abdulvassay001@gmail.com](mailto:abdulvassay001@gmail.com)
 
 ---
 
-*“Software shouldn't feel like a chore. It should automate the exhausting parts so humans can focus on the results.”*
+*"Software shouldn't feel like a chore. It should automate the exhausting parts so humans can focus on the results."*
